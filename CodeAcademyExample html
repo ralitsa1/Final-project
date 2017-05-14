@@ -32,28 +32,28 @@
   <div class="row">
     <figure class="col-sm-6">
     <p> Game of Thrones </p>
-          <img src ="Desktop/gameofthrones.jpg"/> 
+          <img src ="Desktop/gameofthrones.jpeg"/> 
     </figure>
     </div>
     
   <div class="row">
      <figure class="col-sm-6">
       <p> post 2 </p>
-       <img src ="Desktop/genius.jpg"/> 
+       <img src ="Desktop/genius.jpeg"/> 
     </figure>
        </div>
        
   <div class="row">
     <figure class="col-sm-6">
     <p> post 3 </p>
-          <img src ="Desktop/biglittlelies.jpg"/> 
+          <img src ="Desktop/biglittlelies.jpeg"/> 
     </figure>
     </div>
     
       <div class="row">
     <figure class="col-sm-6">
     <p> post 4 </p>
-          <img src ="Desktop/jamestown.jpg"/> 
+          <img src ="Desktop/jamestown.jpeg"/> 
     </figure>
     </div>
 </section>
