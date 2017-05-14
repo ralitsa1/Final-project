@@ -28,19 +28,34 @@
   </div>
 </section>
 <section class="container">
+
+  <div class="row">
+    <figure class="col-sm-6">
+    <p> Game of Thrones </p>
+          <img src ="Desktop/gameofthrones.jpg"/> 
+    </figure>
+    </div>
+    
   <div class="row">
      <figure class="col-sm-6">
-      <p> post 1 </p>
       <p> post 2 </p>
-       <img src ="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/kitchen.jpg"/> 
+       <img src ="Desktop/genius.jpg"/> 
     </figure>
        </div>
+       
   <div class="row">
     <figure class="col-sm-6">
     <p> post 3 </p>
-      <p> post 4 </p>
-          <img src ="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/kitchen.jpg"/> 
+          <img src ="Desktop/biglittlelies.jpg"/> 
     </figure>
+    </div>
+    
+      <div class="row">
+    <figure class="col-sm-6">
+    <p> post 4 </p>
+          <img src ="Desktop/jamestown.jpg"/> 
+    </figure>
+    </div>
 </section>
 <footer class="container">
    <div class="row">
